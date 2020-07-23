@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**dunhamjared/dunhamjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working with:
 
-Here are some ideas to get you started:
+- PHP 7+
+- Laravel & Lumen
+- Vue CLI
+- MySQL
+- MSSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I used to work with:
+
+- jQuery
+- Handlebars
+
+Open source projects I have contributed to:
+
+- [laravel/framework](https://github.com/laravel/framework)
+- [laravel/lumen-framework](https://github.com/laravel/lumen-framework)
+- [sofadesign/limonade](https://github.com/sofadesign/limonade)
+- [ajfisher/node-pixel](https://github.com/ajfisher/node-pixel)
+- [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus)
+- [openautodata/vehicles](https://github.com/openautodata/vehicles)
+
+Personal hobbies:
+
+- Pinball
+- Social Robotics 
+- 3D Printing
+- Mountain Biking
+- VR (RecRoom and Beat Saber)
