@@ -5,6 +5,7 @@ I'm currently working with:
 - PHP 7+
 - Laravel & Lumen
 - Vue CLI
+- Elasticsearch
 - MySQL
 - MSSQL
 
@@ -12,6 +13,7 @@ What I used to work with:
 
 - jQuery
 - Handlebars
+- CockroachDB
 
 Open source projects I have contributed to:
 
