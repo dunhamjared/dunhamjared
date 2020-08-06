@@ -9,7 +9,7 @@ I'm currently working with:
 - MySQL
 - MSSQL
 
-What I used to work with:
+I used to work with:
 
 - jQuery
 - Handlebars
