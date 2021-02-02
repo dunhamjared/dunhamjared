@@ -30,4 +30,4 @@ Personal hobbies:
 - Social Robotics 
 - 3D Printing
 - Mountain Biking
-- VR (RecRoom and Beat Saber)
+- Virtual Reality 
