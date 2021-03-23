@@ -2,7 +2,7 @@
 
 I'm currently working with:
 
-- PHP 7+
+- PHP 8
 - Laravel & Lumen
 - Vue CLI
 - Elasticsearch
