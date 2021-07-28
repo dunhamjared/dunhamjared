@@ -11,3 +11,4 @@ Here are some of the projects I have contributed to:
 - [ajfisher/node-pixel](https://github.com/ajfisher/node-pixel)
 - [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus)
 - [openautodata/vehicles](https://github.com/openautodata/vehicles)
+- [dunhamjared/vuejs-noty](https://github.com/dunhamjared/vuejs-noty)
