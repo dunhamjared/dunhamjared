@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a full stack developer in Texas creating SPAs with PHP, Laravel and Vue.  
+I'm a full stack developer in Texas creating single page applications with PHP, Laravel and Vue.  
 I also work with MySQL, Elastic, jQuery and Handlebars. 
 
 Here are some of the projects I have contributed to:
