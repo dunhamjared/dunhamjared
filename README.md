@@ -6,8 +6,9 @@ I also work with MySQL, Elastic, jQuery and Handlebars.
 Here are some of the projects I have contributed to:
 
 - [laravel/framework](https://github.com/laravel/framework)
-- [laravel/lumen-framework](https://github.com/laravel/lumen-framework)
 - [laravel/docs](https://github.com/laravel/docs)
+- [laravel/lumen-framework](https://github.com/laravel/lumen-framework)
+- [laravel/lumen-docs](https://github.com/laravel/lumen-docs)
 - [sofadesign/limonade](https://github.com/sofadesign/limonade)
 - [ajfisher/node-pixel](https://github.com/ajfisher/node-pixel)
 - [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus)
