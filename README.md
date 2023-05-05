@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a developer in Texas creating single page applications with PHP, Laravel and Vue.  
+I'm a Laravel and Vue developer based in Dallas, TX.  
 I also work with MySQL, Elastic, jQuery and Handlebars. 
 
 Here are a few highlights of my open source contributions! :)  
