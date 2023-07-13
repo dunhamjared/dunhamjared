@@ -18,7 +18,5 @@ Here are a few highlights of my open source contributions! :)
     - [[9.x] Added support policy and versioning scheme](https://github.com/laravel/lumen-docs/pull/198)
 - ajfisher/node-pixel
   - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
-- dracula/notepad-plus-plus
-  - [Fixed "Current line background colour" value](https://github.com/dracula/notepad-plus-plus/commit/13eea5482af018c2ce627c53ab4d0a93dbb419e2)
 - renoguyon/vuejs-noty
   - [Added more examples to the docs](https://github.com/renoguyon/vuejs-noty/pull/16)
