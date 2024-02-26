@@ -1,7 +1,7 @@
 # Hello! 👋
 
-I'm a PHP/Laravel and JS/Vue developer, based in Dallas, TX.  
-I also work with MySQL, Elastic, and Svelte. 
+I'm a PHP/Laravel and JS/Vue/Svelte developer, based in Dallas, TX.  
+I also work with MySQL, MongoDB, and Elasticsearch. 
 
 Here are a few highlights of my open source contributions! :)  
 
