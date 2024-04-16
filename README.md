@@ -16,6 +16,8 @@ Here are a few highlights of my open source contributions! :)
   - docs
     - [[9.x] Added new env options for v3 sftp adaptor](https://github.com/laravel/docs/pull/7757)
     - [[9.x] Added support policy and versioning scheme](https://github.com/laravel/lumen-docs/pull/198)
+- inertiajs/inertia
+  - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
 - ajfisher/node-pixel
   - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
 - renoguyon/vuejs-noty
