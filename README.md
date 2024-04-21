@@ -3,7 +3,7 @@
 I'm a full stack developer, based in Dallas, TX. 
 
 I like to work with PHP, JS/Node, Laravel, Vue, and Svelte.  
-I'm also very familier with MySQL, Elasticsearch, and MongoDB. 
+I'm also very familier with SQL, Elasticsearch, and MongoDB. 
 
 During my free time, I like to design, make, and restore many different things. 
 
