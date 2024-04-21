@@ -1,9 +1,13 @@
 # Hello! 👋
 
-I'm a PHP/Laravel and JS/Vue/Svelte developer, based in Dallas, TX.  
-I also work with MySQL, MongoDB, and Elasticsearch. 
+I'm a full stack developer, based in Dallas, TX. 
 
-My open source contributions:
+I like to work with PHP, JS/Node, Laravel, Vue, and Svelte.  
+I'm also very familier with MySQL, Elasticsearch, and MongoDB. 
+
+During my free time, I like to design, make, and restore many different things. 
+
+Here are some of my contributions to the open source community:
 
 - laravel
   - framework
