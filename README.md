@@ -7,7 +7,7 @@ I'm also very familier with SQL, Elastic, and Mongo.
 
 During my free time, I like to design, make, and restore many different things. 
 
-Here are some of my contributions to the open source community:
+Here are some of my open source contributions:
 
 - laravel
   - framework
