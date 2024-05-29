@@ -22,7 +22,7 @@ Here are some of my open source contributions:
     - [[9.x] Added support policy and versioning scheme](https://github.com/laravel/lumen-docs/pull/198)
 - inertiajs/inertia
   - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
+- poppinss/youch
+  - [Fixed CSS Flex Issues](https://github.com/poppinss/youch/pull/54)
 - ajfisher/node-pixel
   - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
-- renoguyon/vuejs-noty
-  - [Added more examples to the docs](https://github.com/renoguyon/vuejs-noty/pull/16)
