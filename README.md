@@ -2,10 +2,16 @@
 
 I'm a full stack developer, based in Dallas, TX. 
 
+## Technology
+
 I like to work with Laravel, Vue, Adonis.js, and Svelte.  
 I'm also very familier with SQL, Elastic, and Mongo. 
 
+## Personal
+
 During my free time, I like to design, make, and restore many different things. 
+
+## Contributions
 
 Here are some of my open source contributions:
 
