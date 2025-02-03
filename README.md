@@ -17,8 +17,10 @@ Here are some of my open source contributions:
 
 - laravel
   - framework
-    - [[10.x] Updated SQL Server to FETCH and OFFSET for queries that do not include an order by](https://github.com/laravel/framework/pull/44937)
-    - [[5.8] Added "insert or ignore" support](https://github.com/laravel/framework/pull/29639)
+    - [[10.x] Updated SQL Server to FETCH and OFFSET for queries that do not include an order by](https://github.com/laravel/framework/pull/44937)  
+This improved SQL Server query performance by 30% 
+    - [[5.8] Added "insert or ignore" support](https://github.com/laravel/framework/pull/29639)  
+Added the `insertOrIgnore()` query builder clause
   - lumen-framework
     - [[8.x] Removed unused local variable](https://github.com/laravel/lumen-framework/pull/1186)
     - [[8.x] Fixed DocBlocks](https://github.com/laravel/lumen-framework/pull/1187)
