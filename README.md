@@ -9,6 +9,7 @@ During my free time, I like to design, make, and restore many different things.
 
 Here are some of my open source contributions:
 
+
 - laravel
   - framework
     - [[10.x] Updated SQL Server to FETCH and OFFSET for queries that do not include an order by](https://github.com/laravel/framework/pull/44937)  
@@ -22,9 +23,7 @@ Added the `insertOrIgnore()` query builder clause
   - docs
     - [[9.x] Added new env options for v3 sftp adaptor](https://github.com/laravel/docs/pull/7757)
     - [[9.x] Added support policy and versioning scheme](https://github.com/laravel/lumen-docs/pull/198)
-- inertiajs/inertia
-  - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
-- poppinss/youch
-  - [Fixed CSS Flex Issues](https://github.com/poppinss/youch/pull/54)
-- ajfisher/node-pixel
-  - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
+- dunhamjared/adonis-elasticsearch - [Created an Adonis.js wrapper for elasticsearch-js](https://github.com/dunhamjared/adonis-elasticsearch)
+- inertiajs/inertia - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
+- poppinss/youch - [Fixed CSS Flex Issues](https://github.com/poppinss/youch/pull/54)
+- ajfisher/node-pixel - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
