@@ -1,14 +1,13 @@
 # Hello! 👋
 
-I like to work with Svelte, Adonis, Laravel, and Vue.  
+I like to work with TypeScript, Svelte, and Adonis.  
 I'm also very familier with SQL, Elastic, and Mongo. 
 
 During my free time, I like to design, make, and restore many different things. 
 
 ## Contributions
 
-Here are some of my open source contributions:
-
+Here are some of my past open source contributions:
 
 - laravel
   - framework
