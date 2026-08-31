@@ -9,21 +9,15 @@ During my free time, I like to design, make, and restore many different things.
 
 Here are some of my past open source contributions:
 
-- svelte
-  -  [docs: added generic type parameter example for $state](https://github.com/sveltejs/svelte/pull/18494)
+- svelte - [Added generic type parameter example for $state](https://github.com/sveltejs/svelte/pull/18494)
+- inertia - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
+- poppinss/youch - [Fixed CSS Flex Issues](https://github.com/poppinss/youch/pull/54)
 - laravel
-  - framework
-    - [[10.x] Updated SQL Server to FETCH and OFFSET for queries that do not include an order by](https://github.com/laravel/framework/pull/44937)  
-This improved SQL Server query performance by 30% 
-    - [[5.8] Added "insert or ignore" support](https://github.com/laravel/framework/pull/29639)  
-Added the `insertOrIgnore()` query builder clause
-  - lumen-framework
-    - [[8.x] Removed unused local variable](https://github.com/laravel/lumen-framework/pull/1186)
-    - [[8.x] Fixed DocBlocks](https://github.com/laravel/lumen-framework/pull/1187)
-    - [[5.6] Added @throws ValidationException](https://github.com/laravel/lumen-framework/pull/732)
-  - docs
+    - [[10.x] Improved SQL Server query performance by 30%](https://github.com/laravel/framework/pull/44937)  
     - [[9.x] Added new env options for v3 sftp adaptor](https://github.com/laravel/docs/pull/7757)
     - [[9.x] Added support policy and versioning scheme](https://github.com/laravel/lumen-docs/pull/198)
-- inertiajs/inertia - [Fixed Svelte 4 slot rendering issues](https://github.com/inertiajs/inertia/pull/1763)
-- poppinss/youch - [Fixed CSS Flex Issues](https://github.com/poppinss/youch/pull/54)
+    - [[8.x] Removed unused local variable](https://github.com/laravel/lumen-framework/pull/1186)
+    - [[8.x] Fixed DocBlocks](https://github.com/laravel/lumen-framework/pull/1187)
+    - [[5.8] Added `insertOrIgnore()` query builder clause](https://github.com/laravel/framework/pull/29639)  
+    - [[5.6] Added @throws ValidationException](https://github.com/laravel/lumen-framework/pull/732)
 - ajfisher/node-pixel - [Revised parts of the documenation](https://github.com/ajfisher/node-pixel/pull/134)
