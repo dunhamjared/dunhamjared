@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I like to work with TypeScript, Svelte, and Adonis.  
+I like to work with TypeScript, Svelte, and AdonisJS.  
 I'm also very familiar with PHP, Laravel, Vue, SQL, Elastic, and Mongo. 
 
 During my free time, I like to design, make, and restore many different things. 
